@@ -1,4 +1,7 @@
-/* GIMP - The GNU Image Manipulation Program
+/* Picman - 4chan's /g/ - Technology board fork of Gimp (Gnu Image Manipulation Program)
+ * Copyright (C) 2013 Anonymous (http://www.boards.4chan.org/g/)
+ *
+ * Originally by:
  * Copyright (C) 1995 Spencer Kimball and Peter Mattis
  *
  * This program is free software: you can redistribute it and/or modify
