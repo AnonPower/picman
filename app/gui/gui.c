@@ -490,7 +490,7 @@ gui_restore_after_callback (Gimp               *gimp,
 
     gui_add_to_app_menu (image_ui_manager, group,
                          "/dummy-menubar/image-popup/Help/dialogs-about",
-                         _("About GIMP"));
+                         _("About Picman"));
 
     /*  the preferences group  */
     group = ige_mac_menu_add_app_menu_group ();
